@@ -1,0 +1,326 @@
+{
+  "users":
+  [
+    {
+      "id": "5b8d6efc2a5c3b09fb50ce7e",
+      "index": 0,
+      "guid": "23997489-65f9-426a-b96d-8669a84dc74f",
+      "isActive": true,
+      "balance": "$1,158.76",
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "eyeColor": "green",
+      "name": "Crane Bowen",
+      "gender": "male",
+      "companyId": "1",
+      "email": "cranebowen@bostonic.com",
+      "phone": "+1 (959) 579-3566",
+      "address": "813 Dare Court, Shasta, Rhode Island, 6449",
+      "about": "Esse elit commodo ut est aliqua officia mollit. Ex excepteur consequat deserunt amet Lorem voluptate ad. Irure incididunt eiusmod ullamco in culpa enim laborum tempor dolore ut. Et nostrud exercitation ad est magna do.\r\n",
+      "registered": "2017-05-19T07:49:28 +07:00",
+      "latitude": 82.425819,
+      "longitude": -178.428279,
+      "tags": [
+        "labore",
+        "esse",
+        "aliquip",
+        "nulla",
+        "magna",
+        "eu",
+        "minim"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Frank Saunders"
+        },
+        {
+          "id": 1,
+          "name": "Anderson Rios"
+        },
+        {
+          "id": 2,
+          "name": "Hester Irwin"
+        }
+      ],
+      "greeting": "Hello, Crane Bowen! You have 4 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "id": "5b8d6efc5ebb967589c25efe",
+      "index": 1,
+      "guid": "df092c6e-ca59-48ac-96fb-df0832e241c4",
+      "isActive": true,
+      "balance": "$2,630.36",
+      "picture": "http://placehold.it/32x32",
+      "age": 39,
+      "eyeColor": "blue",
+      "name": "Ashlee Shepard",
+      "gender": "female",
+      "companyId": "3",
+      "email": "ashleeshepard@sportan.com",
+      "phone": "+1 (911) 517-2395",
+      "address": "343 Malta Street, Golconda, Oklahoma, 8345",
+      "about": "Eu mollit ut officia cillum duis magna. Exercitation occaecat aliqua officia non magna. Adipisicing consectetur cupidatat mollit elit consectetur nostrud aliqua aliqua aute id sunt labore. Laboris non ad laboris in velit incididunt. Eu voluptate et nostrud officia consectetur consectetur id culpa tempor aute ex qui ipsum. Consectetur est aliqua incididunt ut id cillum tempor elit labore proident.\r\n",
+      "registered": "2015-08-10T01:46:53 +07:00",
+      "latitude": 40.747646,
+      "longitude": 150.20581,
+      "tags": [
+        "est",
+        "eu",
+        "velit",
+        "veniam",
+        "ipsum",
+        "veniam",
+        "commodo"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Mullins Mcintyre"
+        },
+        {
+          "id": 1,
+          "name": "Brock Bass"
+        },
+        {
+          "id": 2,
+          "name": "Mosley Roy"
+        }
+      ],
+      "greeting": "Hello, Ashlee Shepard! You have 9 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "id": "5b8d6efcc9450efbba189be3",
+      "index": 2,
+      "guid": "e4d673b7-6231-4389-894c-38b73a02d584",
+      "isActive": true,
+      "balance": "$2,810.28",
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "eyeColor": "blue",
+      "name": "Sonia Barry",
+      "gender": "female",
+      "companyId": "2",
+      "email": "soniabarry@retrack.com",
+      "phone": "+1 (919) 497-2195",
+      "address": "422 Wilson Street, Chicopee, Alabama, 1274",
+      "about": "Tempor esse adipisicing anim amet nisi est tempor amet dolor aliqua. Duis voluptate est officia adipisicing deserunt est. Fugiat pariatur minim est sint veniam anim velit aliquip laborum. Nostrud et et laboris do sunt occaecat velit dolore non magna et qui. Sit voluptate officia dolor nisi consequat amet enim culpa anim magna. Officia laborum ea proident commodo enim pariatur sint quis esse tempor.\r\n",
+      "registered": "2014-03-04T09:20:04 +08:00",
+      "latitude": -36.027214,
+      "longitude": -22.788531,
+      "tags": [
+        "reprehenderit",
+        "commodo",
+        "excepteur",
+        "officia",
+        "anim",
+        "cillum",
+        "mollit"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Hopkins Spence"
+        },
+        {
+          "id": 1,
+          "name": "Gonzales Peterson"
+        },
+        {
+          "id": 2,
+          "name": "Franco Ramos"
+        }
+      ],
+      "greeting": "Hello, Sonia Barry! You have 8 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "id": "5b8d6efce22b4951b7898701",
+      "index": 3,
+      "guid": "6debb749-1920-4263-ae89-598da16870c0",
+      "isActive": true,
+      "balance": "$2,425.69",
+      "picture": "http://placehold.it/32x32",
+      "age": 32,
+      "eyeColor": "brown",
+      "name": "Jordan Graves",
+      "gender": "female",
+      "companyId": "3",
+      "email": "jordangraves@unia.com",
+      "phone": "+1 (877) 449-2782",
+      "address": "838 Hill Street, Woodburn, Colorado, 1519",
+      "about": "Reprehenderit do eiusmod fugiat dolor et non ullamco officia qui sint ut aute anim fugiat. Duis adipisicing consectetur qui incididunt exercitation dolor cupidatat anim incididunt laborum. Sint laborum excepteur excepteur Lorem consequat aute.\r\n",
+      "registered": "2014-11-11T06:38:42 +08:00",
+      "latitude": 86.048063,
+      "longitude": -79.31233,
+      "tags": [
+        "ex",
+        "exercitation",
+        "dolore",
+        "quis",
+        "deserunt",
+        "duis",
+        "magna"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Sexton Carver"
+        },
+        {
+          "id": 1,
+          "name": "Dawson Wall"
+        },
+        {
+          "id": 2,
+          "name": "George Mays"
+        }
+      ],
+      "greeting": "Hello, Jordan Graves! You have 6 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "id": "5b8d6efc5df1643911b55fc5",
+      "index": 4,
+      "guid": "46c8893b-7034-4f6d-98b5-7216848246ac",
+      "isActive": true,
+      "balance": "$2,726.76",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "eyeColor": "green",
+      "name": "Dee Huber",
+      "gender": "female",
+      "companyId": "1",
+      "email": "deehuber@teraprene.com",
+      "phone": "+1 (878) 563-3880",
+      "address": "421 Vandalia Avenue, Rivera, Nebraska, 4285",
+      "about": "Ullamco laborum dolor incididunt nisi cupidatat nisi duis non eu excepteur occaecat sunt proident. Consectetur pariatur voluptate magna qui id eu ad do Lorem voluptate sint. Laborum laboris duis cupidatat nulla quis cillum ea. Aliquip officia Lorem magna nisi culpa occaecat eu deserunt aliqua et commodo.\r\n",
+      "registered": "2016-09-14T12:07:35 +07:00",
+      "latitude": 33.531015,
+      "longitude": -89.865642,
+      "tags": [
+        "id",
+        "exercitation",
+        "ea",
+        "et",
+        "aliqua",
+        "cupidatat",
+        "aute"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Janna Maldonado"
+        },
+        {
+          "id": 1,
+          "name": "Fanny Wood"
+        },
+        {
+          "id": 2,
+          "name": "Darcy Waters"
+        }
+      ],
+      "greeting": "Hello, Dee Huber! You have 8 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "id": "5b8d6efcd434681ad77ab46f",
+      "index": 5,
+      "guid": "dc56ddf9-7b4f-4725-998c-73ad3a5b26ae",
+      "isActive": false,
+      "balance": "$1,885.55",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "eyeColor": "blue",
+      "name": "Briggs Salazar",
+      "gender": "male",
+      "companyId": "3",
+      "email": "briggssalazar@unq.com",
+      "phone": "+1 (852) 426-2256",
+      "address": "197 Amber Street, Graniteville, Louisiana, 7235",
+      "about": "Voluptate reprehenderit ea Lorem proident id enim proident eiusmod labore amet labore exercitation aliqua do. Fugiat voluptate excepteur ad ex ullamco commodo excepteur. Commodo magna do pariatur exercitation est nisi quis tempor nulla magna pariatur tempor tempor.\r\n",
+      "registered": "2018-06-16T04:59:57 +07:00",
+      "latitude": 75.796427,
+      "longitude": 92.604335,
+      "tags": [
+        "enim",
+        "ad",
+        "eiusmod",
+        "sint",
+        "fugiat",
+        "proident",
+        "laborum"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Mathis Hodges"
+        },
+        {
+          "id": 1,
+          "name": "Bianca Figueroa"
+        },
+        {
+          "id": 2,
+          "name": "Yesenia Nielsen"
+        }
+      ],
+      "greeting": "Hello, Briggs Salazar! You have 3 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": "5b8d6efc37b6ac12767a96db",
+      "index": 6,
+      "guid": "c10b964d-9088-47fe-9a6f-8863df9ea4ea",
+      "isActive": true,
+      "balance": "$1,203.59",
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "eyeColor": "green",
+      "name": "Lewis Rivers",
+      "gender": "male",
+      "companyId": "2",
+      "email": "lewisrivers@geeky.com",
+      "phone": "+1 (883) 479-2224",
+      "address": "612 Seigel Street, Trucksville, New Mexico, 5722",
+      "about": "Quis eu commodo dolore voluptate veniam nulla fugiat occaecat elit adipisicing eu consectetur ullamco. Aliqua eiusmod veniam fugiat mollit ad mollit labore dolor ad. Aute fugiat laborum voluptate voluptate ex nisi ea ex est occaecat nisi ipsum ullamco sint. Consectetur quis cupidatat ex labore eiusmod fugiat ullamco labore eiusmod nostrud adipisicing sunt nisi. Id esse minim ut mollit dolore et.\r\n",
+      "registered": "2018-01-08T05:39:47 +08:00",
+      "latitude": -62.701802,
+      "longitude": 114.242379,
+      "tags": [
+        "id",
+        "ea",
+        "ipsum",
+        "esse",
+        "in",
+        "enim",
+        "eiusmod"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Heidi Frazier"
+        },
+        {
+          "id": 1,
+          "name": "Stevenson Wolfe"
+        },
+        {
+          "id": 2,
+          "name": "Mann Velez"
+        }
+      ],
+      "greeting": "Hello, Lewis Rivers! You have 3 unread messages.",
+      "favoriteFruit": "apple"
+    }
+  ],
+  "company": [
+    {"id": "1", "name": "Apple", "description": "iPhone"},
+    {"id": "2", "name": "Google", "description": "Search"},
+    {"id": "3", "name": "Facebook", "description": "Social"}
+  ]
+}
+
